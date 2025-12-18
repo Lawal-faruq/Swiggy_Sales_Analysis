@@ -5,7 +5,7 @@ This project demonstrates an end-to-end SQL analytics workflow, covering data va
 
 ---
 
-### Obejective
+### Objective
 Data Cleaning & Data Transformation of the Swiggy sales dataset, Normalization of the dataset and answering business questions
 
 #### Specifications
